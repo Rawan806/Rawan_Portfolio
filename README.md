@@ -28,7 +28,7 @@ I am interested in full-time opportunities in **AI/ML, Data Science, and applied
 | **[Wadi'ah](projects/wadiah.md)** | Computer Vision · Semantic Search · Full-Stack AI | Multimodal Top-5 retrieval, bilingual mobile workflow, staff verification, secure handover | [Repository](https://github.com/Rawan806/2025_GP_18) |
 | **[Jibo Social Robotics Study](projects/jibo-sel.md)** | HRI · SEL · Research Methodology | Ongoing structured behavioral measurement work for robot-supported child collaboration | In progress |
 | **[Cardiovascular Disease Classification](projects/cardiovascular-risk.md)** | Machine Learning · Tabular Data | LR/SVM/RF comparison, GridSearchCV, cross-validation, final ROC-AUC 0.8015 | [Repository](https://github.com/Rawan806/ML-early-risk-prediction) |
-| **[Saudi PDPL Legal Text Analytics](projects/pdpl-legal-text-analytics.md)** | Arabic NLP · EDA · Text Mining | Analysis of 43 legal articles, TF-IDF, comparative EDA, LLM prompting experiments | [Team Repository](https://github.com/Layantt/Data-Science-Project) |
+| **[Saudi PDPL Legal Text Analytics](projects/pdpl-legal-text-analytics.md)** | Arabic NLP · EDA · Text Mining | Analysis of 43 legal articles, TF-IDF, comparative EDA, LLM prompting experiments | [Repository](https://github.com/Layantt/Data-Science-Project) |
 | **[Emotion-Aware Humor Classification](projects/emotion-humor.md)** | NLP · Weak Supervision · ML | 200K samples; text-only vs weak-emotion features; best SVM reached 94.95% accuracy & macro-F1 | Private repository |
 
 ## Professional Experience
