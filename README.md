@@ -6,9 +6,15 @@
 
 Applied AI · Machine Learning · NLP · Computer Vision · Data Science · Research
 
-[![GitHub](https://img.shields.io/badge/GitHub-Rawan806-181717?logo=github)](https://github.com/Rawan806)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rawan%20Alqahtani-0A66C2?logo=linkedin)](https://www.linkedin.com/in/rawan-alqahtani-6901b02a7/)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?logo=gmail)](mailto:rawanalq88@gmail.com)
+<a href="https://github.com/Rawan806">
+  <img src="https://img.shields.io/badge/GitHub-Rawan806-181717?logo=github" alt="GitHub">
+</a>
+<a href="https://www.linkedin.com/in/rawan-alqahtani-6901b02a7/">
+  <img src="https://img.shields.io/badge/LinkedIn-Rawan%20Alqahtani-0A66C2?logo=linkedin" alt="LinkedIn">
+</a>
+<a href="mailto:rawanalq88@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?logo=gmail" alt="Email">
+</a>
 
 </div>
 
@@ -24,7 +30,7 @@ I am interested in full-time opportunities in **AI/ML, Data Science, and applied
 
 | Project | Focus | Highlights | Access |
 | --- | --- | --- | --- |
-| **[SafeBite](projects/safebite.md)** | Applied AI · OCR · LLM · Mobile/Backend | Hybrid rule-first screening pipeline, bilingual OCR, barcode lookup, conservative 3-state decisions, 22K+ product records | Case study (KACST confidentiality) |
+| **[SafeBite](projects/safebite.md)** | Applied AI · OCR · LLM · Mobile/Backend | Hybrid rule-first screening pipeline, bilingual OCR, barcode lookup, conservative 3-state decisions, 22K+ product records | Case study |
 | **[Wadi'ah](projects/wadiah.md)** | Computer Vision · Semantic Search · Full-Stack AI | Multimodal Top-5 retrieval, bilingual mobile workflow, staff verification, secure handover | [Repository](https://github.com/Rawan806/2025_GP_18) |
 | **[Jibo Social Robotics Study](projects/jibo-sel.md)** | HRI · SEL · Research Methodology | Ongoing structured behavioral measurement work for robot-supported child collaboration | In progress |
 | **[Cardiovascular Disease Classification](projects/cardiovascular-risk.md)** | Machine Learning · Tabular Data | LR/SVM/RF comparison, GridSearchCV, cross-validation, final ROC-AUC 0.8015 | [Repository](https://github.com/Rawan806/ML-early-risk-prediction) |
@@ -54,6 +60,13 @@ A bilingual AI-assisted food-label screening prototype for children with celiac 
 Graduation project designed for the lost-and-found workflow at **Al-Masjid Al-Haram**. It combines visual and multilingual semantic matching with a staff-controlled verification process rather than allowing AI to make the final ownership decision.
 
 **My contribution:** Primary contributor across most of the end-to-end system, including the application workflow, AI-assisted matching, data/backend integration, staff-side flow, testing, and system refinement. SMS integration was handled by a teammate.
+
+<p align="center">
+  <img src="assets/wadiah-ui-showcase.png" alt="Selected Wadi'ah visitor and staff mobile interfaces" width="100%">
+</p>
+
+<p align="center"><em>Selected Wadi'ah interfaces showing staff report management, found-item reporting, visitor report tracking, secure pickup PIN generation, and AI-assisted rematching.</em></p>
+
 
 [View repository →](https://github.com/Rawan806/2025_GP_18) · [Read case study →](projects/wadiah.md)
 
