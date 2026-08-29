@@ -80,8 +80,7 @@ End-to-end machine learning workflow on a cardiovascular disease dataset with pr
 ### Saudi PDPL Legal Text Analytics
 Team data-science project analyzing Saudi Arabia's Personal Data Protection Law. The project collected **43 legal articles** and applied Arabic text preprocessing, EDA, TF-IDF, frequency analysis, and LLM-based Q&A experiments.
 
-**My contribution:** Exploratory data analysis, comparative analysis, interpretation, and results communication.
-
+My contribution: Exploratory data analysis, comparative analysis, interpretation and communication of results, and development of Gemini-based Q&A generation experiments comparing zero-shot, one-shot, and few-shot prompting for Arabic legal text understanding.
 [View team repository →](https://github.com/Layantt/Data-Science-Project) · [Read case study →](projects/pdpl-legal-text-analytics.md)
 
 ### Emotion-Aware Humor Classification
