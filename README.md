@@ -20,11 +20,11 @@ Applied AI · Machine Learning · NLP · Computer Vision · Data Science · Rese
 
 ## About
 
-I am an Information Technology graduate with an **AI & Data Science track** and hands-on experience across applied AI, machine learning, NLP, computer vision, data curation, and end-to-end system development.
+I am an Information Technology graduate from King Saud University with an AI & Data Science track and hands-on experience across applied AI, machine learning, NLP, computer vision, data curation, and end-to-end system development.
 
-At **King Abdulaziz City for Science and Technology (KACST)**, I have worked on a bilingual AI-assisted food-safety system, curated and processed large product datasets, annotated satellite imagery for AI development, and contributed to an ongoing **KACST–MIT social robotics study** focused on children's social and emotional learning.
+At King Abdulaziz City for Science and Technology (KACST), I have worked on a bilingual AI-assisted food-safety system, curated and processed large product datasets, annotated satellite imagery for AI development, and contributed to an ongoing KACST–MIT social robotics study focused on children's social and emotional learning.
 
-I am interested in full-time opportunities in **AI/ML, Data Science, and applied research**, especially roles that combine model development with real-world systems and careful evaluation.
+I am interested in full-time opportunities in AI/ML, Data Science, and applied research, especially roles that combine model development with real-world systems and careful evaluation.
 
 ## Featured Work
 
