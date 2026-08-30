@@ -30,7 +30,7 @@ I am interested in full-time opportunities in **AI/ML, Data Science, and applied
 
 | Project | Focus | Highlights | Access |
 | --- | --- | --- | --- |
-| **[SafeBite](projects/safebite.md)** | Applied AI · OCR · LLM · Mobile/Backend | Hybrid rule-first screening pipeline, bilingual OCR, barcode lookup, conservative 3-state decisions, 22K+ product records | [Repository](https://github.com/Rawan806/safebite) |
+| **[SafeBite](projects/safebite.md)** | Applied AI · OCR · LLM · Mobile/Backend | Hybrid rule-first screening pipeline, bilingual OCR, barcode lookup, conservative 3-state decisions, 22K+ product records | [Private Repository] |
 | **[Wadi'ah](projects/wadiah.md)** | Computer Vision · Semantic Search · Full-Stack AI | MobileNetV3Small/TFLite visual retrieval, multilingual MiniLM matching, Top-5 candidates, dynamic indexing, human-in-the-loop verification | [Repository](https://github.com/Rawan806/2025_GP_18) |
 | **[Jibo Social Robotics Study](projects/jibo-sel.md)** | HRI · SEL · Research Methodology | Ongoing structured behavioral measurement work for robot-supported child collaboration | In progress |
 | **[Cardiovascular Disease Classification](projects/cardiovascular-risk.md)** | Machine Learning · Tabular Data | LR/SVM/RF comparison, GridSearchCV, cross-validation, final ROC-AUC 0.8015 | [Repository](https://github.com/Rawan806/ML-early-risk-prediction) |
